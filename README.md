@@ -1,4 +1,4 @@
-# 📋 To-Do List Manager (Python Mini Project)
+# 📋 To-Do List Manager 
 ## 📌 Project Description
 
 The To-Do List Manager is a console-based Python application that allows users to manage daily tasks efficiently. Users can add tasks, view all tasks, mark tasks as completed, and delete tasks through a simple menu-driven interface.
@@ -50,6 +50,7 @@ Enter new task: Learn Python
 ---
 
 ## 📂 Project Structure
+
 to_do_list_manager.py
 
 README.md
